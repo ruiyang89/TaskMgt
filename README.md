@@ -1,4 +1,4 @@
-Task Management Application
+Task Management System
 =========
 
-Task Management Application for School Project
+Task Management System for ISM 6259
